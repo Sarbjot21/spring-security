@@ -18,8 +18,6 @@ target/
 *.iws
 *.iml
 *.ipr
-misc.xml
-mvn.*
 
 ### NetBeans ###
 /nbproject/private/
@@ -34,8 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 
-/mvnw
-/mvnw.cmd
-/.mvn/wrapper/maven-wrapper.jar
-/.mvn/wrapper/maven-wrapper.properties
-/.mvn/wrapper/MavenWrapperDownloader.java
+/mvnw*
+/.mvn/wrapper/**
